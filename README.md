@@ -1,4 +1,4 @@
-##[**Business-insight-360**]
+##**Business-insight-360**
 
 Project Outlook: Recently completed "Business Insight 360" in Power BI, focusing on analyzing sales performance for AtliQ, a hardware company operating globally. Utilized advanced techniques to dissect net sales, gross margin, and profit across different countries and sales channels (brick & mortar, e-commerce).
 
